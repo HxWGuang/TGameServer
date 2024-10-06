@@ -29,7 +29,7 @@ func Add(values []interface{}, val interface{}, index int) ([]interface{}, error
 	// res := values[:index]
 
 	//方式二 普通循环
-	res := []interface{}{}
+	var res []interface{}
 
 	for i := 0; i < index; i++ {
 		v := values[i]

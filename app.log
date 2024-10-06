@@ -2653,3 +2653,8 @@
 2021-07-27 19:46:15 [DEBG] [f:/TGame/TGameServer/app/tserver/controller.go:71] RegisterController {Game Game map[UpPos:0xacea80] <nil>}
 2021-07-27 19:46:15 [INFO] [f:/TGame/TGameServer/app/tserver/server.go:31] Starting Tcp Server :54809
 2021-07-27 19:46:15 [INFO] [f:/TGame/TGameServer/app/tserver/room.go:28] [0xc0000940e0]
+2023-12-17 16:01:47 [DEBG] [E:/Game Projects/TGameServer/manager/utils.go:17] Server port :54809
+2023-12-17 16:01:47 [DEBG] [E:/Game Projects/TGameServer/app/tserver/controller.go:71] RegisterController {User User map[Login:0x20ae00 Register:0x20aec0] <nil>}
+2023-12-17 16:01:47 [DEBG] [E:/Game Projects/TGameServer/app/tserver/controller.go:71] RegisterController {Room Room map[Chat:0x20a8a0 JoinRoom:0x20a9a0] <nil>}
+2023-12-17 16:01:47 [DEBG] [E:/Game Projects/TGameServer/app/tserver/controller.go:71] RegisterController {Game Game map[UpPos:0x20a560] <nil>}
+2023-12-17 16:01:47 [INFO] [E:/Game Projects/TGameServer/app/tserver/server.go:32] Starting Tcp Server :54809
